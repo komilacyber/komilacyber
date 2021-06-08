@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @komilacyber
-- 👀 I’m interested in painting, cooking and adventure
-- 🌱 I’m currently learning python and c++
+- 👋 Hi, I’m @komila Wiehe
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me ...
 
