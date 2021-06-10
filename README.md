@@ -1,4 +1,4 @@
-- 👋 Hi!
+- 👋 Hi I'm Komila Wiehe!
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me ...
