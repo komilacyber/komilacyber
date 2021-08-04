@@ -1,7 +1,7 @@
-- 👋 Hi
-- 🌱 I’m currently learning c++
+- 👋 Hi! I'm Komila
+- 🌱 python & C++ 
 - 💞️ I’m looking to collaborate on any projects 
-- 📫 How to reach me ...
+- 📫 How to reach me: kgopaul91@gmail.com
 
 <!---
 komilacyber/komilacyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
