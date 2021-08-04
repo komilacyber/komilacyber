@@ -1,5 +1,7 @@
 - 👋 Hi! I'm Komila
+- ✏️ CS student
 - 🌱 python & C++ 
+- 💻 interested in machine learning, AI & Data Science
 - 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me: kgopaul91@gmail.com
 
